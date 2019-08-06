@@ -49,7 +49,7 @@ subtitle = ""
 
 1. **Karaesmen E**, **Introduction to Data Science with R**. (2019 Mar) Women in Analytics Conference, Columbus OH         
 
-1. **Karaesmen E**, Hahn ET, Dile A, Rizvi AA, Wang J, Wang T, Haagenson MD, Preus L, Zhu Q, Liu Q, Yan L, Liu S, Haiman C, Stram D, Pooler L, Cheng X, Van Den Berg D, Brock G, Webb A, McCarthy PL, Spellman SR, Lee JS, Paczesny S, and Sucheston-Campbell LE. **Multiple Functional Donor Polymorphisms in IL1RL1 region Associate with Death Due to GvHD or Infection after Unrelated Donor Allogeneic Hematopoietic Stem Cell Transplantation (HCT) for AML and MDS.** (2018 Dec) American Society of Hematology 60^th^ Annual Meeting, San Diego, CA.      
+1. **Karaesmen E**, Hahn ET, Dile A, Rizvi AA, Wang J, Wang T, Haagenson MD, Preus L, Zhu Q, Liu Q, Yan L, Liu S, Haiman C, Stram D, Pooler L, Cheng X, Van Den Berg D, Brock G, Webb A, McCarthy PL, Spellman SR, Lee JS, Paczesny S, and Sucheston-Campbell LE. **Multiple Functional Donor Polymorphisms in IL1RL1 region Associate with Death Due to GvHD or Infection after Unrelated Donor Allogeneic Hematopoietic Stem Cell Transplantation (HCT) for AML and MDS.** (2018 Dec) American Society of Hematology 60th Annual Meeting, San Diego, CA.      
     
 1. **Karaesmen E**, **Data Cleaning and Manipulation with R**. (2018 Mar)  Women in Analytics Conference, Columbus OH      
     
@@ -57,7 +57,7 @@ subtitle = ""
     
 1. **Karaesmen E**, **Personalized Medicine and Genomic Data Science**. (2017 Nov) Ohio DevFest, Columbus, OH.       
     
-1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Replication of Candidate SNP Survival Analyses and Gene-Based Tests of Association with Survival Outcomes after an Unrelated Donor Blood or Marrow Transplant: Results from the DISCOVeRY-BMT Study**. (2016 Dec) American Society of Hematology 58^th^ Annual Meeting, San Diego, CA.
+1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Replication of Candidate SNP Survival Analyses and Gene-Based Tests of Association with Survival Outcomes after an Unrelated Donor Blood or Marrow Transplant: Results from the DISCOVeRY-BMT Study**. (2016 Dec) American Society of Hematology 58th Annual Meeting, San Diego, CA.
     
 1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn T, Sucheston-Campbell LE. **Visualizing genomic results for team science: an example from the DISCOVeRY-BMT study**.(2016 Oct) Inaugural The Ohio State University Pharmaceutics Retreat, Columbus, OH.
 
