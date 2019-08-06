@@ -52,7 +52,7 @@ subtitle = ""
 
 1. **Karaesmen E**, Hahn TE, Dile A, Rizvi AA, Wang J, Wang T, Haagenson M, Preus L, Zhu Q, Liu Q, Yan L, Liu S, Haiman CA, Stram D, Pooler L, Sheng X, Van Den Berg D, Brock G, Webb A, McCarthy PL, Pasquini MC, Spellman SR, Lee SJ, Paczesny S, Sucheston-Campbell LE **Multiple functional variants in IL1RL1 region are pre-transplant markers for risk of GVHD and infection deaths.** *Blood Adv.* -  Accepted      
 
-1. Rizvi AA, **Karaesmen E**, Morgan M, Sucheston-Campbell LE. **gwasurvivr: an R package for genome-wide survival analysis.** *Bioinformatics*. 2018 Nov 5. PMID: 30395168. [doi:10.1093/bioinformatics/bty920](https://doi.org/10.1093/bioinformatics/bty920)
+1. Rizvi AA, **Karaesmen E**, Morgan M, Preus L, Wang J, Sovic M, Hahn T, Sucheston-Campbell LE. **gwasurvivr: an R package for genome-wide survival analysis.** *Bioinformatics*. 2018 Nov 5. PMID: 30395168. [doi:10.1093/bioinformatics/bty920](https://doi.org/10.1093/bioinformatics/bty920)
     
 1. **Karaesmen E**, Rizvi AA, Preus L, McCarthy PL, Pasquini MC, Onel K, Zhu X, Spellman S, Haiman CA, Stram DO, Pooler L, Sheng X, Zhu Q, Yan L, Liu Q, Hu Q, Webb A, Brock G, Clay-Gilmour AI, Battaglia S, Tritchler D, Liu S, Hahn TE, Sucheston-Campbell LE. **Replication and validation of genetic polymorphisms associated with survival after allogeneic blood or marrow transplant.** *Blood* 2017 Sep 28;130(13):1585-1596. PMID: 28811306. [doi:10.1182/blood-2017-05-784637](https://doi.org/10.1182/blood-2017-05-784637)
 
