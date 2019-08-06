@@ -23,10 +23,10 @@
   url = "#publications"
   weight = 20
 
-#[[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 50
+[[main]]
+  name = "Talks"
+  url = "#oral_pres"
+  weight = 30
 
 # [[main]]
 #   name = "Contact"
@@ -38,4 +38,4 @@
 [[main]]
    name = "CV"
    url = "files/cv.pdf"
-   weight = 30
+   weight = 40
