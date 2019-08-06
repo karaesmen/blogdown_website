@@ -50,13 +50,9 @@ subtitle = ""
 1. **Understanding Injury Data with R**, Data Science for Women Summer Camp - July 17 2019   
 I conducted a workshop with students in 8-10 grades. Interactive material is available [here](https://suchestoncampbell-lab.shinyapps.io/SummerCamp2019/).
 
-\
-
 1. **Teaching Assistant for Introduction to the Structure, Analyses and Interpretation of Genomic Data studies Course (PHR 8194)** - Spring 2019
     * Addition to assistantship, I also taught Data Vizualization Module giving a two lecture introduction to ggplot2 package in R.    
     
-\
-
 1. **Introduction to R Programming Workshops** - 2018 - Present
     * Every year I organize multiple R programming workshops to raise funds for [Pelotonia](https://pelotonia.org/).
     * This 16 hour workshop includes the introduction of R objects and functions, methods of data cleaning and visualization for beginners.    
@@ -65,8 +61,6 @@ I conducted a workshop with students in 8-10 grades. Interactive material is ava
       + Sept 4 - 13, 2018
       + July 15 - Aug 8, 2017
       + June 8 - 29, 2017
-
-\
 
 1. **Biocondutor Workshop at OSU** - September 11-12 2017
     * Organized a 2-day Bioconductor workshop hosted by Dr. Martin Morgan with over 100 attendees
