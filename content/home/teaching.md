@@ -57,10 +57,10 @@ Addition to assistantship, I also taught Data Vizualization Module giving a two 
   * Every year I organize multiple R programming workshops to raise funds for [Pelotonia](https://pelotonia.org/).
   * This 16 hour workshop includes the introduction of R objects and functions, methods of data cleaning and visualization for beginners.    
     * Dates of past workshops:
-    + April 22 - May 6, 2019
-    + Sept 4 - 13, 2018
-    + July 15 - Aug 8, 2017
-    + June 8 - 29, 2017      
+      + April 22 - May 6, 2019
+      + Sept 4 - 13, 2018
+      + July 15 - Aug 8, 2017
+      + June 8 - 29, 2017      
 
 1. **Bioconductor Workshop at OSU** - September 11-12 2017   
 Organized a 2-day Bioconductor workshop hosted by Dr. Martin Morgan with over 100 attendees
