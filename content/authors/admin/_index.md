@@ -31,6 +31,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:karaesmen.1@osu.edu #'#contact'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ezgi-karaesmen/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/e_Karaesmen
