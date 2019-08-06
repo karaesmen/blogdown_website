@@ -60,7 +60,7 @@ I conducted a workshop with students in 8-10 grades. Interactive material is ava
       + April 22 - May 6, 2019
       + Sept 4 - 13, 2018
       + July 15 - Aug 8, 2017
-      + June 8 - 29, 2017
+      + June 8 - 29, 2017      
 
 1. **Biocondutor Workshop at OSU** - September 11-12 2017
     * Organized a 2-day Bioconductor workshop hosted by Dr. Martin Morgan with over 100 attendees
