@@ -62,5 +62,5 @@ Addition to assistantship, I also taught Data Vizualization Module giving a two 
     + July 15 - Aug 8, 2017
     + June 8 - 29, 2017      
 
-1. **Biocondutor Workshop at OSU** - September 11-12 2017
-    * Organized a 2-day Bioconductor workshop hosted by Dr. Martin Morgan with over 100 attendees
+1. **Bioconductor Workshop at OSU** - September 11-12 2017   
+Organized a 2-day Bioconductor workshop hosted by Dr. Martin Morgan with over 100 attendees
