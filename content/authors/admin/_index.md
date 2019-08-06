@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-Ezgi Karaesmen is a PhD candidate at the Ohio State University College of Pharmacy. She is a computational biologist with cancer biology background. Currently, she works with large genomic and clinical datasets in the context of bone marrow transplants. Broadly, she is interested in associations of germline genetic variants with survival events of leukemia patients following their transplant. 
+Ezgi Karaesmen is a PhD candidate at the Ohio State University College of Pharmacy. She is a genomic data scientist with cancer biology background. Currently, she works with large genomic and clinical datasets in the context of bone marrow transplants. Broadly, she is interested in associations of germline genetic variants with survival events of leukemia patients following their transplant. 
