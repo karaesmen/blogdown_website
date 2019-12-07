@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "RStudio"
+  #organization_url = "https://rstudio.com/"
+  title = "Tidyverse Instructor"
+  url = "http://sphhp.buffalo.edu/biostatistics/education/advanced-graduate-certificate-in-applied-biostatistics.html"
+  #certificate_url = "https://education.rstudio.com/trainers/people/karaesmen+ezgi/"
+  date_start = "2019-09-13"
+  date_end = ""
+  #description = ""
+
+
 [[item]]
   organization = "SUNY at Buffalo"
   #organization_url = ""

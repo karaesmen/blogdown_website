@@ -47,6 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
+1. Received RStudio Tidyverse Instructor Certification - Sep 13 2019
+
 1. **Understanding Injury Data with R**, Data Science for Women Summer Camp - July 17 2019   
 I conducted a workshop with students in 8-10 grades. Interactive material is available [here](https://suchestoncampbell-lab.shinyapps.io/SummerCamp2019/).
 
