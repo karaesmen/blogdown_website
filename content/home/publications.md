@@ -47,6 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
+1. Wang J, Clay-Gilmour AI, **Karaesmen E**, Rizvi A, Zhu Q, Yan L, Preus L, Liu S, Wang Y, Griffiths E, Stram DO, Pooler L, Sheng X, Haiman C, Van Den Berg D,
+Webb A, Brock G, Spellman S, Pasquini M, McCarthy P, Allan J, Stölzel F, Onel K, Hahn TE, Sucheston-Campbell LE. **Genome-wide association analyses identify variants in IRF4 associated with Acute Myeloid Leukemia and Myelodysplastic Syndrome susceptibility.** *bioRxiv* 773952 (2019). [doi:10.1101/773952](https://doi.org/10.1101/773952)
 
 1. Tang H, Hahn TE, **Karaesmen E**, Rizvi AA, Wang J, Paczesny S, Wang T, Preus L, Zhu Q, Haiman CA, Stram D, Pooler L, Sheng X, Van Den Berg D, Brock G, Webb A, Pasquini MC, McCarthy PL, Spellman SR, Sucheston-Campbell LE. **Validation of genetic associations with acute GVHD and non-relapse mortality in DISCOVeRY-BMT.** *Blood Adv.* - Accepted          
 

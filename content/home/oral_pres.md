@@ -47,6 +47,10 @@ subtitle = ""
  css_class = ""
 +++
 
+1. **Karaesmen E**. **Exploring Genetic Associations with Bone Marrow Transplant Outcomes** (2019 Dec) American Society of Hematology Annual Meeting, Friday Scientific Workshop on Integrative Epidemiology: Translating Epidemiology and Basic Science to Maximize Clinical Impact, Orlando, FL. 	
+
+1. Sing A, **Karaesmen E**. **How do you change the world? By developing future women leaders** (2019 Nov) Google Developers Group Ohio DevFest, Columbus, OH.
+
 1. **Karaesmen E**, **Introduction to Data Science with R**. (2019 Mar) Women in Analytics Conference, Columbus OH         
 
 1. **Karaesmen E**, Hahn ET, Dile A, Rizvi AA, Wang J, Wang T, Haagenson MD, Preus L, Zhu Q, Liu Q, Yan L, Liu S, Haiman C, Stram D, Pooler L, Cheng X, Van Den Berg D, Brock G, Webb A, McCarthy PL, Spellman SR, Lee JS, Paczesny S, and Sucheston-Campbell LE. **Multiple Functional Donor Polymorphisms in IL1RL1 region Associate with Death Due to GvHD or Infection after Unrelated Donor Allogeneic Hematopoietic Stem Cell Transplantation (HCT) for AML and MDS.** (2018 Dec) American Society of Hematology 60th Annual Meeting, San Diego, CA.      
