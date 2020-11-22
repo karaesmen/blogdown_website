@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Pharmaceutical Sciences
     institution: The Ohio State University
-    year: Expected graduation 2020
+    year: 2020
   - course: MSc in Interdisciplinary Natural Sciences
     institution: University at Buffalo, Roswell Park Cancer Institute
     year: 2015
@@ -19,14 +19,13 @@ education:
 email: ""
 interests:
 - Bioinformatics
-- Genome-wide association studies (GWAS)
 - Cancer Genomics 
 - Pharmacogenomics
 name: Ezgi Karaesmen
 organizations:
-- name: The Ohio State University
+- name: Institute for Genomic Medicine at Nationwide Children's Hospital
   url: ""
-role: PhD Candidate
+role: Bioinformatics postdoctoral scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-Ezgi Karaesmen is a PhD candidate at the Ohio State University College of Pharmacy. She is a genomic data scientist with cancer biology background. Currently, she works with large genomic and clinical datasets in the context of bone marrow transplants. Broadly, she is interested in associations of germline genetic variants with survival events of leukemia patients following their transplant. 
+Ezgi Karaesmen is a bioinformatics postdoctoral scientist at Institute for Genomic Medicine at Nationwide Children's Hospital. She is a computational biologist with cancer biology background. Currently, she works at the Institute of Genomic Medicine at Nationwide Children's Hospital, focusing on translational genomics and transcriptomics pipelines and in silico experiments. 
